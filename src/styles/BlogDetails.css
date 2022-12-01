@@ -1,0 +1,27 @@
+.blog-details{
+    box-shadow: 1px 3px 6px 0px;
+    width: 50%;
+    background-color: rgb(253, 253, 253);
+    margin: 10px auto 10px auto;
+    padding: 10px;
+}
+
+.blog-details h2 {
+    font-size: 20px;
+    color: #f1356d;
+    text-align: center;
+    margin: 10px;
+}
+
+.blog-details div{
+    margin: 20px 0;
+}
+
+.blog-details button {
+    background: #f1356d;
+    color: #fff;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+}
